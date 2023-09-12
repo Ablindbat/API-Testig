@@ -1,0 +1,12 @@
+extentreport\ExtentLogger.class
+listner\TestListeners.class
+utils\JsonPathMethod.class
+pojoclasses\BookingDataPojo.class
+pojoclasses\BookingDatesPojo.class
+dataprocess\DataProcessClass.class
+extentreport\ExtentReport.class
+extentreport\ExtentManager.class
+pojoclasses\CredentialPojo.class
+utils\PropertiesFileReader.class
+utils\BaseMethod.class
+pojoclasses\PartialUpdatePojo.class
